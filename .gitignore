@@ -2,6 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
+tools/CDCs
+enviroment.py
+config.py
+*.sql
+.DS_Store
+*.csv
+*.zip
 
 # C extensions
 *.so
